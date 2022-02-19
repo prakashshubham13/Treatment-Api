@@ -1,0 +1,1151 @@
+info: 2021-11-29T18:42:58.973Z: 	Server started on PORT 5000
+info: 2021-11-29T18:42:59.045Z: 	Database Connected
+info: 2021-11-30T04:01:06.488Z: 	Database Disconnected
+info: 2021-11-30T04:01:16.510Z: 	Database Connected
+info: 2021-11-30T17:58:10.722Z: 	Server started on PORT 5000
+info: 2021-11-30T17:58:10.808Z: 	Database Connected
+info: 2021-11-30T18:02:16.473Z: 	Server started on PORT 5000
+info: 2021-11-30T18:02:16.532Z: 	Database Connected
+info: 2021-11-30T18:02:21.606Z: 	Server started on PORT 5000
+info: 2021-11-30T18:02:21.668Z: 	Database Connected
+info: 2021-11-30T18:02:27.478Z: 	Server started on PORT 5000
+info: 2021-11-30T18:02:27.537Z: 	Database Connected
+info: 2021-11-30T18:05:23.583Z: 	userController/registerUser- start
+info: 2021-11-30T18:05:23.584Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-11-30T18:05:23.597Z: 	treatmentService/registerUser- start
+error: 2021-11-30T18:05:23.618Z: 	treatmentService/registerUser - "roll" is not allowed
+error: 2021-11-30T18:05:23.619Z: 	userController/registerUser- error: 400
+error: 2021-11-30T18:05:23.620Z: 	400 - Bad Request - Bad request
+info: 2021-11-30T18:06:41.755Z: 	Server started on PORT 5000
+info: 2021-11-30T18:06:41.811Z: 	Database Connected
+info: 2021-11-30T18:06:45.659Z: 	userController/registerUser- start
+info: 2021-11-30T18:06:45.660Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-11-30T18:06:45.675Z: 	treatmentService/registerUser- start
+info: 2021-11-30T18:06:45.676Z: 	treatementDBServices/checkUser- start
+info: 2021-11-30T18:06:45.748Z: 	Db result - null
+info: 2021-11-30T18:06:45.751Z: 	treatementDBServices/checkUser- end
+info: 2021-11-30T18:06:45.928Z: 	treatementDBServices/registerUser- start
+error: 2021-11-30T18:06:45.971Z: 	treatementServices/registerUser- error: User validation failed: roll: Path `roll` is required.
+error: 2021-11-30T18:06:45.975Z: 	treatmentService/registerUser - User validation failed: roll: Path `roll` is required.
+error: 2021-11-30T18:06:45.976Z: 	userController/registerUser- error: User validation failed: roll: Path `roll` is required.
+info: 2021-11-30T18:08:03.418Z: 	userController/registerUser- start
+info: 2021-11-30T18:08:03.419Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-11-30T18:08:03.426Z: 	treatmentService/registerUser- start
+info: 2021-11-30T18:08:03.427Z: 	treatementDBServices/checkUser- start
+info: 2021-11-30T18:08:03.435Z: 	Db result - null
+info: 2021-11-30T18:08:03.436Z: 	treatementDBServices/checkUser- end
+info: 2021-11-30T18:08:03.614Z: 	treatementDBServices/registerUser- start
+error: 2021-11-30T18:08:03.620Z: 	treatementServices/registerUser- error: User validation failed: roll: Path `roll` is required.
+error: 2021-11-30T18:08:03.624Z: 	treatmentService/registerUser - User validation failed: roll: Path `roll` is required.
+error: 2021-11-30T18:08:03.626Z: 	userController/registerUser- error: User validation failed: roll: Path `roll` is required.
+info: 2021-12-01T04:31:38.717Z: 	Database Disconnected
+info: 2021-12-01T04:31:48.756Z: 	Database Connected
+info: 2021-12-01T04:34:19.679Z: 	Server started on PORT 5000
+info: 2021-12-01T04:34:19.737Z: 	Database Connected
+info: 2021-12-01T04:34:26.427Z: 	Server started on PORT 5000
+info: 2021-12-01T04:34:26.488Z: 	Database Connected
+info: 2021-12-01T04:34:58.425Z: 	Server started on PORT 5000
+info: 2021-12-01T04:34:58.502Z: 	Database Connected
+info: 2021-12-01T04:35:05.462Z: 	Server started on PORT 5000
+info: 2021-12-01T04:35:05.530Z: 	Database Connected
+info: 2021-12-01T04:35:09.297Z: 	Server started on PORT 5000
+info: 2021-12-01T04:35:09.353Z: 	Database Connected
+info: 2021-12-01T04:35:20.545Z: 	userController/registerUser- start
+info: 2021-12-01T04:35:20.546Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T04:35:20.557Z: 	treatmentService/registerUser- start
+info: 2021-12-01T04:35:20.559Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T04:35:20.579Z: 	Db result - null
+info: 2021-12-01T04:35:20.580Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T04:35:20.733Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T04:35:20.778Z: 	Db result - {"isDeleted":false,"_id":"61a6fb881e07510ed8cc2975","name":"shubham","email":"shubham@gmail.com","password":"$2b$10$.m89B/g6/gTfbFxs5J3bYODGzs/UZdWlRk.3PAr96/p6M8Eq3EF9e","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T04:35:20.780Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T04:35:20.781Z: 	Generate Token- start
+info: 2021-12-01T04:35:20.796Z: 	Generate Token- end
+info: 2021-12-01T04:35:20.797Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTZmYjg4MWUwNzUxMGVkOGNjMjk3NSIsImlhdCI6MTYzODMzMzMyMCwiZXhwIjoxNjM4MzM2OTIwfQ.Xh1YcIRxG7aEbWROBFL46nXVgppfIBMSq7YTgL6mK14"
+info: 2021-12-01T04:35:20.799Z: 	userService/registerUser- end
+info: 2021-12-01T04:35:20.799Z: 	HTTP res body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTZmYjg4MWUwNzUxMGVkOGNjMjk3NSIsImlhdCI6MTYzODMzMzMyMCwiZXhwIjoxNjM4MzM2OTIwfQ.Xh1YcIRxG7aEbWROBFL46nXVgppfIBMSq7YTgL6mK14"
+info: 2021-12-01T04:35:20.801Z: 	userController/registerUser- end
+info: 2021-12-01T04:35:20.802Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T04:37:09.937Z: 	Server started on PORT 5000
+info: 2021-12-01T04:37:10.042Z: 	Database Connected
+info: 2021-12-01T04:37:14.823Z: 	Server started on PORT 5000
+info: 2021-12-01T04:37:14.875Z: 	Database Connected
+info: 2021-12-01T04:37:30.010Z: 	Server started on PORT 5000
+info: 2021-12-01T04:37:30.082Z: 	Database Connected
+info: 2021-12-01T04:37:35.159Z: 	Server started on PORT 5000
+info: 2021-12-01T04:37:35.223Z: 	Database Connected
+info: 2021-12-01T04:37:35.986Z: 	userController/registerUser- start
+info: 2021-12-01T04:37:35.987Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T04:37:36.002Z: 	treatmentService/registerUser- start
+info: 2021-12-01T04:37:36.004Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T04:37:36.055Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a6fb881e07510ed8cc2975","name":"shubham","email":"shubham@gmail.com","password":"$2b$10$.m89B/g6/gTfbFxs5J3bYODGzs/UZdWlRk.3PAr96/p6M8Eq3EF9e","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T04:37:36.061Z: 	treatementDBServices/checkUser- end
+error: 2021-12-01T04:37:36.062Z: 	treatmentService/registerUser - 409
+error: 2021-12-01T04:37:36.064Z: 	userController/registerUser- error: 409
+error: 2021-12-01T04:37:36.065Z: 	409 - Conflict - Resource Already Exists / Resource Conflict
+info: 2021-12-01T04:41:43.707Z: 	Server started on PORT 5000
+info: 2021-12-01T04:41:43.776Z: 	Database Connected
+info: 2021-12-01T04:42:39.838Z: 	Server started on PORT 5000
+info: 2021-12-01T04:42:39.887Z: 	Database Connected
+info: 2021-12-01T04:43:35.242Z: 	Server started on PORT 5000
+info: 2021-12-01T04:43:35.286Z: 	Database Connected
+info: 2021-12-01T04:43:40.078Z: 	Server started on PORT 5000
+info: 2021-12-01T04:43:40.125Z: 	Database Connected
+info: 2021-12-01T04:49:47.380Z: 	userController/registerUser- start
+info: 2021-12-01T04:49:47.382Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T04:49:47.394Z: 	treatmentService/registerUser- start
+info: 2021-12-01T04:49:47.397Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T04:49:47.432Z: 	Db result - null
+info: 2021-12-01T04:49:47.433Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T04:49:47.631Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T04:49:47.682Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a6feeb84c7bc040ce47072","name":"shubham","email":"shubham@gmail.com","password":"$2b$10$lWvGIeHZpbLiG13Cq4/XVuLV5O/XD0qihsp5.xbydnkDwV9/kqLN2","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T04:49:47.684Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T04:49:47.685Z: 	Generate Token- start
+info: 2021-12-01T04:49:47.697Z: 	Generate Token- end
+info: 2021-12-01T04:49:47.698Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTZmZWViODRjN2JjMDQwY2U0NzA3MiIsImlhdCI6MTYzODMzNDE4NywiZXhwIjoxNjM4MzM3Nzg3fQ.SKEfZJP2898S7NdUVntmDXOJgdK1oFPAsGZL5itGvoo"
+info: 2021-12-01T04:49:47.699Z: 	userService/registerUser- end
+info: 2021-12-01T04:49:47.700Z: 	HTTP res body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTZmZWViODRjN2JjMDQwY2U0NzA3MiIsImlhdCI6MTYzODMzNDE4NywiZXhwIjoxNjM4MzM3Nzg3fQ.SKEfZJP2898S7NdUVntmDXOJgdK1oFPAsGZL5itGvoo"
+info: 2021-12-01T04:49:47.701Z: 	userController/registerUser- end
+info: 2021-12-01T04:49:47.703Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T04:50:29.104Z: 	Server started on PORT 5000
+info: 2021-12-01T04:50:29.157Z: 	Database Connected
+info: 2021-12-01T04:50:32.320Z: 	Server started on PORT 5000
+info: 2021-12-01T04:50:32.373Z: 	Database Connected
+info: 2021-12-01T04:50:41.121Z: 	Server started on PORT 5000
+info: 2021-12-01T04:50:41.176Z: 	Database Connected
+info: 2021-12-01T04:50:50.375Z: 	Server started on PORT 5000
+info: 2021-12-01T04:50:50.434Z: 	Database Connected
+info: 2021-12-01T04:50:56.073Z: 	Server started on PORT 5000
+info: 2021-12-01T04:50:56.148Z: 	Database Connected
+info: 2021-12-01T04:50:58.870Z: 	Server started on PORT 5000
+info: 2021-12-01T04:50:58.934Z: 	Database Connected
+info: 2021-12-01T04:51:02.901Z: 	Server started on PORT 5000
+info: 2021-12-01T04:51:02.964Z: 	Database Connected
+info: 2021-12-01T04:51:09.852Z: 	Server started on PORT 5000
+info: 2021-12-01T04:51:09.890Z: 	Database Connected
+info: 2021-12-01T04:51:27.114Z: 	Server started on PORT 5000
+info: 2021-12-01T04:51:27.165Z: 	Database Connected
+info: 2021-12-01T04:55:12.581Z: 	Server started on PORT 5000
+info: 2021-12-01T04:55:12.647Z: 	Database Connected
+info: 2021-12-01T04:55:20.358Z: 	Server started on PORT 5000
+info: 2021-12-01T04:55:20.426Z: 	Database Connected
+info: 2021-12-01T04:55:23.464Z: 	Server started on PORT 5000
+info: 2021-12-01T04:55:23.517Z: 	Database Connected
+info: 2021-12-01T04:55:29.022Z: 	Server started on PORT 5000
+info: 2021-12-01T04:55:29.073Z: 	Database Connected
+info: 2021-12-01T04:55:52.567Z: 	Server started on PORT 5000
+info: 2021-12-01T04:55:52.615Z: 	Database Connected
+info: 2021-12-01T04:56:19.530Z: 	userController/registerUser- start
+info: 2021-12-01T04:56:19.531Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T04:56:19.541Z: 	treatmentService/registerUser- start
+info: 2021-12-01T04:56:19.543Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T04:56:19.568Z: 	Db result - null
+info: 2021-12-01T04:56:19.569Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T04:56:19.724Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T04:56:19.767Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7007324a0233e940c78e0","name":"shubham","email":"shubham@gmail.com","password":"$2b$10$gbX2ZqJ0gjOS/WmIEjoFbuCyUdzn0dktuAp9lwnmwdRzfx8yCFGQW","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T04:56:19.768Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T04:56:19.769Z: 	userService/registerUser- end
+info: 2021-12-01T04:56:19.770Z: 	HTTP res body - {"mssg":"Account Successfully created.Check your mail to verify your account."}
+info: 2021-12-01T04:56:19.770Z: 	userController/registerUser- end
+info: 2021-12-01T04:56:19.771Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T04:57:09.056Z: 	Server started on PORT 5000
+info: 2021-12-01T04:57:09.114Z: 	Database Connected
+info: 2021-12-01T04:57:57.768Z: 	Server started on PORT 5000
+info: 2021-12-01T04:57:57.825Z: 	Database Connected
+info: 2021-12-01T04:58:59.288Z: 	Server started on PORT 5000
+info: 2021-12-01T04:58:59.351Z: 	Database Connected
+info: 2021-12-01T04:59:14.607Z: 	Server started on PORT 5000
+info: 2021-12-01T04:59:14.671Z: 	Database Connected
+info: 2021-12-01T04:59:41.056Z: 	Server started on PORT 5000
+info: 2021-12-01T04:59:41.118Z: 	Database Connected
+info: 2021-12-01T05:00:04.015Z: 	Server started on PORT 5000
+info: 2021-12-01T05:00:04.073Z: 	Database Connected
+info: 2021-12-01T05:00:13.599Z: 	Server started on PORT 5000
+info: 2021-12-01T05:00:13.656Z: 	Database Connected
+info: 2021-12-01T05:00:30.340Z: 	Server started on PORT 5000
+info: 2021-12-01T05:00:30.400Z: 	Database Connected
+info: 2021-12-01T12:41:21.930Z: 	Database Disconnected
+info: 2021-12-01T12:41:32.068Z: 	Database Connected
+info: 2021-12-01T14:56:54.094Z: 	Database Disconnected
+info: 2021-12-01T14:57:04.115Z: 	Database Connected
+info: 2021-12-01T16:00:59.170Z: 	userController/registerUser- start
+info: 2021-12-01T16:00:59.174Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:00:59.194Z: 	treatmentService/registerUser- start
+error: 2021-12-01T16:00:59.216Z: 	treatmentService/registerUser - "roll" is not allowed
+error: 2021-12-01T16:00:59.217Z: 	userController/registerUser- error: 400
+error: 2021-12-01T16:00:59.219Z: 	400 - Bad Request - Bad request
+info: 2021-12-01T16:03:55.081Z: 	Server started on PORT 5000
+info: 2021-12-01T16:03:55.127Z: 	Database Connected
+info: 2021-12-01T16:04:29.326Z: 	Server started on PORT 5000
+info: 2021-12-01T16:04:29.421Z: 	Database Connected
+info: 2021-12-01T16:04:33.693Z: 	userController/registerUser- start
+info: 2021-12-01T16:04:33.694Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:04:33.709Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:04:33.711Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:04:33.755Z: 	Db result - null
+info: 2021-12-01T16:04:33.756Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:04:33.937Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:04:33.979Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a79d11f7822a17943e99b4","name":"shubham","email":"shubham@gmail.com","password":"$2b$10$sxAw8d3L6mTmSZzWMOfCKeDN1A/B/JgfFGzT49DhVWQPJXovopXci","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:04:33.981Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T16:04:33.982Z: 	Generate Token- start
+info: 2021-12-01T16:04:34.007Z: 	Generate Token- end
+info: 2021-12-01T16:04:34.009Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTc5ZDExZjc4MjJhMTc5NDNlOTliNCIsImlhdCI6MTYzODM3NDY3MywiZXhwIjoxNjM4Mzc4MjczfQ.EP6tqEK4BT-651cvaLHpuTWMxcaG9bPR2x99E-OcxKU"
+info: 2021-12-01T16:04:34.011Z: 	userService/registerUser- end
+info: 2021-12-01T16:04:34.012Z: 	HTTP res body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTc5ZDExZjc4MjJhMTc5NDNlOTliNCIsImlhdCI6MTYzODM3NDY3MywiZXhwIjoxNjM4Mzc4MjczfQ.EP6tqEK4BT-651cvaLHpuTWMxcaG9bPR2x99E-OcxKU"
+info: 2021-12-01T16:04:34.013Z: 	userController/registerUser- end
+info: 2021-12-01T16:04:34.014Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T16:05:22.902Z: 	Server started on PORT 5000
+info: 2021-12-01T16:05:22.960Z: 	Database Connected
+info: 2021-12-01T16:05:29.043Z: 	Server started on PORT 5000
+info: 2021-12-01T16:05:29.117Z: 	Database Connected
+info: 2021-12-01T16:05:34.026Z: 	Server started on PORT 5000
+info: 2021-12-01T16:05:34.083Z: 	Database Connected
+info: 2021-12-01T16:05:56.621Z: 	Server started on PORT 5000
+info: 2021-12-01T16:05:56.677Z: 	Database Connected
+info: 2021-12-01T16:06:01.609Z: 	Server started on PORT 5000
+info: 2021-12-01T16:06:01.666Z: 	Database Connected
+info: 2021-12-01T16:06:04.333Z: 	Server started on PORT 5000
+info: 2021-12-01T16:06:04.382Z: 	Database Connected
+info: 2021-12-01T16:06:07.905Z: 	Server started on PORT 5000
+info: 2021-12-01T16:06:07.963Z: 	Database Connected
+info: 2021-12-01T16:06:15.468Z: 	Server started on PORT 5000
+info: 2021-12-01T16:06:15.525Z: 	Database Connected
+info: 2021-12-01T16:06:27.329Z: 	Server started on PORT 5000
+info: 2021-12-01T16:06:27.384Z: 	Database Connected
+info: 2021-12-01T16:07:19.079Z: 	Server started on PORT 5000
+info: 2021-12-01T16:07:19.129Z: 	Database Connected
+info: 2021-12-01T16:07:42.362Z: 	Server started on PORT 5000
+info: 2021-12-01T16:07:42.415Z: 	Database Connected
+info: 2021-12-01T16:08:00.586Z: 	Server started on PORT 5000
+info: 2021-12-01T16:08:00.636Z: 	Database Connected
+info: 2021-12-01T16:08:30.775Z: 	Server started on PORT 5000
+info: 2021-12-01T16:08:30.829Z: 	Database Connected
+info: 2021-12-01T16:08:41.068Z: 	Server started on PORT 5000
+info: 2021-12-01T16:08:41.124Z: 	Database Connected
+info: 2021-12-01T16:08:50.188Z: 	Server started on PORT 5000
+info: 2021-12-01T16:08:50.240Z: 	Database Connected
+info: 2021-12-01T16:08:55.606Z: 	userController/registerUser- start
+info: 2021-12-01T16:08:55.608Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:08:55.624Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:08:55.626Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:08:55.655Z: 	Db result - null
+info: 2021-12-01T16:08:55.656Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:08:55.823Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:08:55.865Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a79e1707d18f3114ba1613","name":"shubham","email":"shubham@gmail.com","password":"$2b$10$Vz40AW2SUwfyECP4k82JCOD0Tgc/wUS4BbGdvK5ENKiCoxm7BBOPy","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:08:55.867Z: 	treatementDBServices/registerUser- end
+error: 2021-12-01T16:08:55.874Z: 	treatmentService/registerUser - data is not defined
+error: 2021-12-01T16:08:55.875Z: 	userController/registerUser- error: data is not defined
+info: 2021-12-01T16:09:34.955Z: 	Server started on PORT 5000
+info: 2021-12-01T16:09:35.011Z: 	Database Connected
+info: 2021-12-01T16:09:39.052Z: 	Server started on PORT 5000
+info: 2021-12-01T16:09:39.113Z: 	Database Connected
+info: 2021-12-01T16:09:45.373Z: 	userController/registerUser- start
+info: 2021-12-01T16:09:45.374Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:09:45.389Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:09:45.391Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:09:45.434Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a79e1707d18f3114ba1613","name":"shubham","email":"shubham@gmail.com","password":"$2b$10$Vz40AW2SUwfyECP4k82JCOD0Tgc/wUS4BbGdvK5ENKiCoxm7BBOPy","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:09:45.435Z: 	treatementDBServices/checkUser- end
+error: 2021-12-01T16:09:45.436Z: 	treatmentService/registerUser - 409
+error: 2021-12-01T16:09:45.438Z: 	userController/registerUser- error: 409
+error: 2021-12-01T16:09:45.439Z: 	409 - Conflict - Resource Already Exists / Resource Conflict
+info: 2021-12-01T16:09:58.518Z: 	userController/registerUser- start
+info: 2021-12-01T16:09:58.519Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:09:58.527Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:09:58.528Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:09:58.537Z: 	Db result - null
+info: 2021-12-01T16:09:58.539Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:09:58.709Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:09:58.748Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a79e5696a39019d0bf4db0","name":"shubham","email":"shubham@gmail.com","password":"$2b$10$hmagZSoT2ZKLgY6R6iDL4.e.R4u7ENAUx1rzfYzB7RXNgNMdXRd3q","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:09:58.749Z: 	treatementDBServices/registerUser- end
+error: 2021-12-01T16:09:58.754Z: 	treatmentService/registerUser - user is not defined
+error: 2021-12-01T16:09:58.756Z: 	userController/registerUser- error: user is not defined
+info: 2021-12-01T16:10:33.255Z: 	Server started on PORT 5000
+info: 2021-12-01T16:10:33.335Z: 	Database Connected
+info: 2021-12-01T16:10:42.226Z: 	userController/registerUser- start
+info: 2021-12-01T16:10:42.229Z: 	HTTP req body - {"name":"shubham","email":"shubham@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:10:42.237Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:10:42.239Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:10:42.264Z: 	Db result - null
+info: 2021-12-01T16:10:42.265Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:10:42.403Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:10:42.435Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a79e8284b849083ce260dd","name":"shubham","email":"shubham@gmail.com","password":"$2b$10$f5i4VCMsrnQ7tl87T12Vb.bWpGiWGcQxEKlQRScGKydfCDmruoDMO","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:10:42.436Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T16:10:42.464Z: 	userService/registerUser- end
+info: 2021-12-01T16:10:42.465Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T16:10:42.465Z: 	userController/registerUser- end
+info: 2021-12-01T16:10:42.467Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T16:11:19.678Z: 	userController/registerUser- start
+info: 2021-12-01T16:11:19.681Z: 	HTTP req body - {"name":"shubham","email":"shubham2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:11:19.687Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:11:19.688Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:11:19.695Z: 	Db result - null
+info: 2021-12-01T16:11:19.698Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:11:19.856Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:11:19.868Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a79ea784b849083ce260e1","name":"shubham","email":"shubham2000513@gmail.com","password":"$2b$10$LQRIO.esuUu0FkDKejvqwOUYPAqkc68DejD9Ahl801Ht2Ob9Glhpm","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:11:19.870Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T16:11:19.875Z: 	userService/registerUser- end
+info: 2021-12-01T16:11:19.875Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T16:11:19.876Z: 	userController/registerUser- end
+info: 2021-12-01T16:11:19.877Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T16:12:17.607Z: 	Server started on PORT 5000
+info: 2021-12-01T16:12:17.659Z: 	Database Connected
+info: 2021-12-01T16:12:24.412Z: 	Server started on PORT 5000
+info: 2021-12-01T16:12:24.462Z: 	Database Connected
+info: 2021-12-01T16:12:27.438Z: 	userController/registerUser- start
+info: 2021-12-01T16:12:27.442Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:12:27.455Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:12:27.459Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:12:27.491Z: 	Db result - null
+info: 2021-12-01T16:12:27.492Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:12:27.664Z: 	treatementDBServices/registerUser- start
+error: 2021-12-01T16:12:27.714Z: 	treatementServices/registerUser- error: E11000 duplicate key error collection: college.users index: roll_1 dup key: { roll: "1806346" }
+error: 2021-12-01T16:12:27.716Z: 	treatmentService/registerUser - E11000 duplicate key error collection: college.users index: roll_1 dup key: { roll: "1806346" }
+error: 2021-12-01T16:12:27.717Z: 	userController/registerUser- error: E11000 duplicate key error collection: college.users index: roll_1 dup key: { roll: "1806346" }
+info: 2021-12-01T16:22:16.765Z: 	userController/registerUser- start
+info: 2021-12-01T16:22:16.766Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:22:16.772Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:22:16.775Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:22:16.782Z: 	Db result - null
+info: 2021-12-01T16:22:16.783Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:22:16.957Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:22:16.969Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7a1385b3be2311489d94a","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$s1FSjest5C1SxsXvmFyiu.M.L4d2HXCiV7hT17goYjTURH97ZcPjm","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:22:16.971Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T16:22:16.996Z: 	userService/registerUser- end
+info: 2021-12-01T16:22:16.997Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T16:22:16.998Z: 	userController/registerUser- end
+info: 2021-12-01T16:22:16.999Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T16:25:21.517Z: 	Server started on PORT 5000
+info: 2021-12-01T16:25:21.575Z: 	Database Connected
+info: 2021-12-01T16:26:06.701Z: 	Server started on PORT 5000
+info: 2021-12-01T16:26:06.756Z: 	Database Connected
+info: 2021-12-01T16:26:50.879Z: 	Server started on PORT 5000
+info: 2021-12-01T16:26:50.931Z: 	Database Connected
+info: 2021-12-01T16:27:02.500Z: 	Server started on PORT 5000
+info: 2021-12-01T16:27:02.561Z: 	Database Connected
+info: 2021-12-01T16:27:12.342Z: 	Server started on PORT 5000
+info: 2021-12-01T16:27:12.397Z: 	Database Connected
+info: 2021-12-01T16:33:25.499Z: 	userController/registerUser- start
+info: 2021-12-01T16:33:25.501Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:33:25.511Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:33:25.516Z: 	treatementDBServices/checkUser- start
+error: 2021-12-01T16:33:25.518Z: 	treatementServices/checkUser- error: rol is not defined
+error: 2021-12-01T16:33:25.521Z: 	treatmentService/registerUser - rol is not defined
+error: 2021-12-01T16:33:25.522Z: 	userController/registerUser- error: rol is not defined
+info: 2021-12-01T16:34:02.979Z: 	Server started on PORT 5000
+info: 2021-12-01T16:34:03.053Z: 	Database Connected
+info: 2021-12-01T16:34:03.143Z: 	userController/registerUser- start
+info: 2021-12-01T16:34:03.144Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:34:03.160Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:34:03.161Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:34:03.248Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7a1385b3be2311489d94a","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$s1FSjest5C1SxsXvmFyiu.M.L4d2HXCiV7hT17goYjTURH97ZcPjm","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:34:03.253Z: 	treatementDBServices/checkUser- end
+error: 2021-12-01T16:34:03.255Z: 	treatmentService/registerUser - 409
+error: 2021-12-01T16:34:03.257Z: 	userController/registerUser- error: 409
+error: 2021-12-01T16:34:03.258Z: 	409 - Conflict - Resource Already Exists / Resource Conflict
+info: 2021-12-01T16:47:10.187Z: 	Server started on PORT 5000
+info: 2021-12-01T16:47:10.259Z: 	Database Connected
+info: 2021-12-01T16:47:25.897Z: 	Server started on PORT 5000
+info: 2021-12-01T16:47:25.946Z: 	Database Connected
+info: 2021-12-01T16:48:11.452Z: 	Server started on PORT 5000
+info: 2021-12-01T16:48:11.511Z: 	Database Connected
+info: 2021-12-01T16:48:15.319Z: 	Server started on PORT 5000
+info: 2021-12-01T16:48:15.359Z: 	Database Connected
+info: 2021-12-01T16:48:24.106Z: 	Server started on PORT 5000
+info: 2021-12-01T16:48:24.155Z: 	Database Connected
+info: 2021-12-01T16:48:30.569Z: 	Server started on PORT 5000
+info: 2021-12-01T16:48:30.626Z: 	Database Connected
+info: 2021-12-01T16:48:39.327Z: 	Server started on PORT 5000
+info: 2021-12-01T16:48:39.400Z: 	Database Connected
+info: 2021-12-01T16:48:45.049Z: 	Server started on PORT 5000
+info: 2021-12-01T16:48:45.117Z: 	Database Connected
+info: 2021-12-01T16:48:57.061Z: 	Server started on PORT 5000
+info: 2021-12-01T16:48:57.130Z: 	Database Connected
+info: 2021-12-01T16:49:05.060Z: 	Server started on PORT 5000
+info: 2021-12-01T16:49:05.111Z: 	Database Connected
+info: 2021-12-01T16:49:07.938Z: 	Server started on PORT 5000
+info: 2021-12-01T16:49:07.990Z: 	Database Connected
+info: 2021-12-01T16:49:12.834Z: 	Server started on PORT 5000
+info: 2021-12-01T16:49:12.887Z: 	Database Connected
+info: 2021-12-01T16:49:16.768Z: 	Server started on PORT 5000
+info: 2021-12-01T16:49:16.818Z: 	Database Connected
+info: 2021-12-01T16:49:53.901Z: 	Server started on PORT 5000
+info: 2021-12-01T16:49:53.954Z: 	Database Connected
+info: 2021-12-01T16:49:57.783Z: 	Server started on PORT 5000
+info: 2021-12-01T16:49:57.842Z: 	Database Connected
+info: 2021-12-01T16:50:03.035Z: 	Server started on PORT 5000
+info: 2021-12-01T16:50:03.104Z: 	Database Connected
+info: 2021-12-01T16:50:12.395Z: 	Server started on PORT 5000
+info: 2021-12-01T16:50:12.451Z: 	Database Connected
+info: 2021-12-01T16:50:15.596Z: 	Server started on PORT 5000
+info: 2021-12-01T16:50:15.646Z: 	Database Connected
+info: 2021-12-01T16:50:19.273Z: 	Server started on PORT 5000
+info: 2021-12-01T16:50:19.316Z: 	Database Connected
+info: 2021-12-01T16:50:27.948Z: 	Server started on PORT 5000
+info: 2021-12-01T16:50:28.008Z: 	Database Connected
+info: 2021-12-01T16:50:33.975Z: 	Server started on PORT 5000
+info: 2021-12-01T16:50:34.032Z: 	Database Connected
+info: 2021-12-01T16:50:42.449Z: 	Server started on PORT 5000
+info: 2021-12-01T16:50:42.513Z: 	Database Connected
+info: 2021-12-01T16:50:49.995Z: 	Server started on PORT 5000
+info: 2021-12-01T16:50:50.048Z: 	Database Connected
+info: 2021-12-01T16:50:54.128Z: 	Server started on PORT 5000
+info: 2021-12-01T16:50:54.184Z: 	Database Connected
+info: 2021-12-01T16:51:02.099Z: 	Server started on PORT 5000
+info: 2021-12-01T16:51:02.153Z: 	Database Connected
+info: 2021-12-01T16:51:10.048Z: 	userController/registerUser- start
+info: 2021-12-01T16:51:10.049Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:51:10.064Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:51:10.065Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:51:10.098Z: 	Db result - null
+info: 2021-12-01T16:51:10.099Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:51:10.237Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:51:10.273Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7a7fefc2ebb2e10f8c5e5","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$EPMJfGCHFS7tJZTaiJC.bO4UyYnCy4Rd8PQFtxkGCzakGSSlkEvW.","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:51:10.275Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T16:51:10.295Z: 	userService/registerUser- end
+info: 2021-12-01T16:51:10.296Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T16:51:10.297Z: 	userController/registerUser- end
+info: 2021-12-01T16:51:10.298Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T16:52:39.815Z: 	Server started on PORT 5000
+info: 2021-12-01T16:52:39.867Z: 	Database Connected
+info: 2021-12-01T16:52:54.709Z: 	userController/registerUser- start
+info: 2021-12-01T16:52:54.711Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:52:54.727Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:52:54.729Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:52:54.773Z: 	Db result - null
+info: 2021-12-01T16:52:54.775Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:52:54.937Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:52:54.977Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7a866955f282aa8d60bb5","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$Q252caxz6shHoReI3c0GdOij3HzG6qjOVphQ6ighVar4aANiMKnbq","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:52:54.979Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T16:52:55.003Z: 	userService/registerUser- end
+info: 2021-12-01T16:52:55.004Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T16:52:55.006Z: 	userController/registerUser- end
+info: 2021-12-01T16:52:55.007Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T16:53:35.632Z: 	Server started on PORT 5000
+info: 2021-12-01T16:53:35.692Z: 	Database Connected
+info: 2021-12-01T16:53:50.534Z: 	Server started on PORT 5000
+info: 2021-12-01T16:53:50.593Z: 	Database Connected
+info: 2021-12-01T16:53:58.432Z: 	Server started on PORT 5000
+info: 2021-12-01T16:53:58.493Z: 	Database Connected
+info: 2021-12-01T16:54:03.935Z: 	Server started on PORT 5000
+info: 2021-12-01T16:54:03.997Z: 	Database Connected
+info: 2021-12-01T16:54:51.676Z: 	Server started on PORT 5000
+info: 2021-12-01T16:54:51.735Z: 	Database Connected
+info: 2021-12-01T16:54:56.315Z: 	userController/registerUser- start
+info: 2021-12-01T16:54:56.316Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:54:56.325Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:54:56.329Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:54:56.356Z: 	Db result - null
+info: 2021-12-01T16:54:56.357Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:54:56.516Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:54:56.549Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7a8e0d742f34bc4c030fb","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$X7/MhEh.3jbICqysUFdAAelK7hGfDAuxJ9ciN965ar1toD.HPFC9S","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:54:56.551Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T16:54:56.569Z: 	userService/registerUser- end
+info: 2021-12-01T16:54:56.570Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T16:54:56.571Z: 	userController/registerUser- end
+info: 2021-12-01T16:54:56.572Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T16:56:38.502Z: 	Server started on PORT 5000
+info: 2021-12-01T16:56:38.552Z: 	Database Connected
+info: 2021-12-01T16:56:48.383Z: 	userController/registerUser- start
+info: 2021-12-01T16:56:48.384Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:56:48.402Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:56:48.404Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:56:48.436Z: 	Db result - null
+info: 2021-12-01T16:56:48.440Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:56:48.623Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:56:48.664Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7a9507e488636a89c48ef","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$0zs0GYvXApV3J0li1jVGXO7GiAiD3krtAejGrpS6dvQlLNRcNDuo2","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:56:48.666Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T16:56:48.690Z: 	userService/registerUser- end
+info: 2021-12-01T16:56:48.692Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T16:56:48.693Z: 	userController/registerUser- end
+info: 2021-12-01T16:56:48.695Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T16:57:12.398Z: 	Server started on PORT 5000
+info: 2021-12-01T16:57:12.451Z: 	Database Connected
+info: 2021-12-01T16:57:21.016Z: 	Server started on PORT 5000
+info: 2021-12-01T16:57:21.078Z: 	Database Connected
+info: 2021-12-01T16:57:24.021Z: 	Server started on PORT 5000
+info: 2021-12-01T16:57:24.067Z: 	Database Connected
+info: 2021-12-01T16:57:27.611Z: 	Server started on PORT 5000
+info: 2021-12-01T16:57:27.681Z: 	Database Connected
+info: 2021-12-01T16:57:34.479Z: 	Server started on PORT 5000
+info: 2021-12-01T16:57:34.537Z: 	Database Connected
+info: 2021-12-01T16:57:39.381Z: 	Server started on PORT 5000
+info: 2021-12-01T16:57:39.433Z: 	Database Connected
+info: 2021-12-01T16:57:48.111Z: 	Server started on PORT 5000
+info: 2021-12-01T16:57:48.177Z: 	Database Connected
+info: 2021-12-01T16:58:44.770Z: 	userController/registerUser- start
+info: 2021-12-01T16:58:44.771Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T16:58:44.784Z: 	treatmentService/registerUser- start
+info: 2021-12-01T16:58:44.787Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T16:58:44.813Z: 	Db result - null
+info: 2021-12-01T16:58:44.819Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T16:58:44.993Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T16:58:45.032Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7a9c4e8cc09570cdbf9dc","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$Rw020EduXB6z6PbffdceW.0l5wqvOsBOPJuFh3iaXQBMYfaINq1H2","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T16:58:45.036Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T16:58:45.058Z: 	userService/registerUser- end
+info: 2021-12-01T16:58:45.059Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T16:58:45.060Z: 	userController/registerUser- end
+info: 2021-12-01T16:58:45.061Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T17:01:29.102Z: 	Server started on PORT 5000
+info: 2021-12-01T17:01:29.158Z: 	Database Connected
+info: 2021-12-01T17:01:35.165Z: 	Server started on PORT 5000
+info: 2021-12-01T17:01:35.216Z: 	Database Connected
+info: 2021-12-01T17:01:40.667Z: 	userController/registerUser- start
+info: 2021-12-01T17:01:40.669Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T17:01:40.684Z: 	treatmentService/registerUser- start
+info: 2021-12-01T17:01:40.685Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T17:01:40.718Z: 	Db result - null
+info: 2021-12-01T17:01:40.720Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T17:01:40.893Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T17:01:40.941Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7aa74e73c8a39f8f45cbf","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$w9Y63TYLsweyiQE1IgN2N.ghlYlTV/7zrbGAb5ywdpohiT/rSxJ.q","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T17:01:40.943Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T17:01:40.965Z: 	userService/registerUser- end
+info: 2021-12-01T17:01:40.966Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T17:01:40.967Z: 	userController/registerUser- end
+info: 2021-12-01T17:01:40.968Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T17:02:42.159Z: 	Server started on PORT 5000
+info: 2021-12-01T17:02:42.211Z: 	Database Connected
+info: 2021-12-01T17:02:46.199Z: 	Server started on PORT 5000
+info: 2021-12-01T17:02:46.258Z: 	Database Connected
+info: 2021-12-01T17:02:52.063Z: 	Server started on PORT 5000
+info: 2021-12-01T17:02:52.118Z: 	Database Connected
+info: 2021-12-01T17:04:18.749Z: 	Server started on PORT 5000
+info: 2021-12-01T17:04:18.799Z: 	Database Connected
+info: 2021-12-01T17:04:23.901Z: 	Server started on PORT 5000
+info: 2021-12-01T17:04:23.971Z: 	Database Connected
+info: 2021-12-01T17:04:37.187Z: 	userController/registerUser- start
+info: 2021-12-01T17:04:37.188Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T17:04:37.200Z: 	treatmentService/registerUser- start
+info: 2021-12-01T17:04:37.202Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T17:04:37.226Z: 	Db result - null
+info: 2021-12-01T17:04:37.227Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T17:04:37.398Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T17:04:37.438Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7ab2529cf22171c2e9d7c","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$SOpsgi0shbd8IEraNLUpG.o/Ky120UmzbZccazG2yscY6Ae7X8tbe","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T17:04:37.439Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T17:04:37.459Z: 	userService/registerUser- end
+info: 2021-12-01T17:04:37.460Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T17:04:37.461Z: 	userController/registerUser- end
+info: 2021-12-01T17:04:37.464Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T17:07:54.487Z: 	userController/registerUser- start
+info: 2021-12-01T17:07:54.488Z: 	HTTP req body - {"name":"shubham","email":"s@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-01T17:07:54.490Z: 	treatmentService/registerUser- start
+info: 2021-12-01T17:07:54.490Z: 	treatementDBServices/checkUser- start
+info: 2021-12-01T17:07:54.501Z: 	Db result - null
+info: 2021-12-01T17:07:54.502Z: 	treatementDBServices/checkUser- end
+info: 2021-12-01T17:07:54.681Z: 	treatementDBServices/registerUser- start
+info: 2021-12-01T17:07:54.692Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a7abea29cf22171c2e9d80","name":"shubham","email":"s@gmail.com","password":"$2b$10$t1lmVis6B00DluDtiHYi..V6V/hgNX9u6cHTc9nqTH.mSfKVXO9Ki","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-01T17:07:54.696Z: 	treatementDBServices/registerUser- end
+info: 2021-12-01T17:07:54.703Z: 	userService/registerUser- end
+info: 2021-12-01T17:07:54.704Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-01T17:07:54.706Z: 	userController/registerUser- end
+info: 2021-12-01T17:07:54.707Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-01T20:34:12.971Z: 	Database Disconnected
+info: 2021-12-01T20:34:23.067Z: 	Database Connected
+info: 2021-12-02T06:57:03.689Z: 	Server started on PORT 5000
+info: 2021-12-02T06:57:03.778Z: 	Database Connected
+info: 2021-12-02T07:00:34.880Z: 	Server started on PORT 5000
+info: 2021-12-02T07:00:34.949Z: 	Database Connected
+info: 2021-12-02T07:00:50.271Z: 	Server started on PORT 5000
+info: 2021-12-02T07:00:50.334Z: 	Database Connected
+info: 2021-12-02T07:01:18.770Z: 	Server started on PORT 5000
+info: 2021-12-02T07:01:18.838Z: 	Database Connected
+info: 2021-12-02T07:01:52.953Z: 	Server started on PORT 5000
+info: 2021-12-02T07:01:53.014Z: 	Database Connected
+info: 2021-12-02T07:02:12.571Z: 	Server started on PORT 5000
+info: 2021-12-02T07:02:12.633Z: 	Database Connected
+info: 2021-12-02T07:03:24.692Z: 	Server started on PORT 5000
+info: 2021-12-02T07:03:24.755Z: 	Database Connected
+info: 2021-12-02T07:04:07.806Z: 	Server started on PORT 5000
+info: 2021-12-02T07:04:07.867Z: 	Database Connected
+info: 2021-12-02T07:04:12.522Z: 	Server started on PORT 5000
+info: 2021-12-02T07:04:12.588Z: 	Database Connected
+info: 2021-12-02T07:04:24.784Z: 	Server started on PORT 5000
+info: 2021-12-02T07:04:24.851Z: 	Database Connected
+info: 2021-12-02T07:04:34.669Z: 	Server started on PORT 5000
+info: 2021-12-02T07:04:34.723Z: 	Database Connected
+info: 2021-12-02T07:04:37.949Z: 	Server started on PORT 5000
+info: 2021-12-02T07:04:38.008Z: 	Database Connected
+info: 2021-12-02T07:05:31.195Z: 	Server started on PORT 5000
+info: 2021-12-02T07:05:31.257Z: 	Database Connected
+info: 2021-12-02T07:05:35.694Z: 	Server started on PORT 5000
+info: 2021-12-02T07:05:35.761Z: 	Database Connected
+info: 2021-12-02T07:05:44.065Z: 	Server started on PORT 5000
+info: 2021-12-02T07:05:44.137Z: 	Database Connected
+info: 2021-12-02T07:06:58.118Z: 	Server started on PORT 5000
+info: 2021-12-02T07:06:58.178Z: 	Database Connected
+info: 2021-12-02T07:07:03.298Z: 	Server started on PORT 5000
+info: 2021-12-02T07:07:03.375Z: 	Database Connected
+info: 2021-12-02T07:07:05.497Z: 	Server started on PORT 5000
+info: 2021-12-02T07:07:05.566Z: 	Database Connected
+info: 2021-12-02T07:07:14.349Z: 	Server started on PORT 5000
+info: 2021-12-02T07:07:14.418Z: 	Database Connected
+info: 2021-12-02T07:07:24.517Z: 	Server started on PORT 5000
+info: 2021-12-02T07:07:24.574Z: 	Database Connected
+info: 2021-12-02T07:08:15.233Z: 	Server started on PORT 5000
+info: 2021-12-02T07:08:15.286Z: 	Database Connected
+info: 2021-12-02T07:08:40.621Z: 	Server started on PORT 5000
+info: 2021-12-02T07:08:40.674Z: 	Database Connected
+info: 2021-12-02T07:08:59.228Z: 	Server started on PORT 5000
+info: 2021-12-02T07:08:59.297Z: 	Database Connected
+info: 2021-12-02T07:09:06.620Z: 	Server started on PORT 5000
+info: 2021-12-02T07:09:06.676Z: 	Database Connected
+info: 2021-12-02T07:12:09.362Z: 	Server started on PORT 5000
+info: 2021-12-02T07:12:09.425Z: 	Database Connected
+info: 2021-12-02T07:51:47.417Z: 	Server started on PORT 5000
+info: 2021-12-02T07:51:47.482Z: 	Database Connected
+info: 2021-12-02T07:51:52.787Z: 	Server started on PORT 5000
+info: 2021-12-02T07:51:52.834Z: 	Database Connected
+info: 2021-12-02T07:52:09.582Z: 	Server started on PORT 5000
+info: 2021-12-02T07:52:09.642Z: 	Database Connected
+info: 2021-12-02T07:52:14.700Z: 	Server started on PORT 5000
+info: 2021-12-02T07:52:14.768Z: 	Database Connected
+info: 2021-12-02T07:53:52.483Z: 	userController/registerUser- start
+info: 2021-12-02T07:53:52.485Z: 	HTTP req body - {"name":"shubham","email":"s@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-02T07:53:52.494Z: 	treatmentService/registerUser- start
+info: 2021-12-02T07:53:52.496Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T07:53:52.526Z: 	Db result - null
+info: 2021-12-02T07:53:52.527Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T07:53:52.673Z: 	treatementDBServices/registerUser- start
+info: 2021-12-02T07:53:52.724Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a87b906b0ae71aa4ee8cae","name":"shubham","email":"s@gmail.com","password":"$2b$10$TBUt52AFLpi467oVKAjl2uCmYEXhZQrGTSustaAMU1Rsw6rquhDKi","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T07:53:52.725Z: 	treatementDBServices/registerUser- end
+info: 2021-12-02T07:53:52.726Z: 	Generate Token- start
+info: 2021-12-02T07:53:52.737Z: 	Generate Token- end
+info: 2021-12-02T07:53:52.738Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTg3YjkwNmIwYWU3MWFhNGVlOGNhZSIsImlhdCI6MTYzODQzMTYzMiwiZXhwIjoxNjM4NDM1MjMyfQ.13cuUD1tbL-13aNEvm8V37OZIDsqhlFXDDyLCNG5Ghc"
+info: 2021-12-02T07:53:52.758Z: 	userService/registerUser- end
+info: 2021-12-02T07:53:52.759Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-02T07:53:52.760Z: 	userController/registerUser- end
+info: 2021-12-02T07:53:52.762Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-02T07:55:34.951Z: 	userController/registerUser- start
+info: 2021-12-02T07:55:34.952Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-02T07:55:34.956Z: 	treatmentService/registerUser- start
+info: 2021-12-02T07:55:34.957Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T07:55:34.961Z: 	Db result - null
+info: 2021-12-02T07:55:34.962Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T07:55:35.095Z: 	treatementDBServices/registerUser- start
+info: 2021-12-02T07:55:35.108Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a87bf76b0ae71aa4ee8cb2","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$AVGp5dI3/hNos7juOPomLOB8rNakwrD5NKXhINhQiBuZdCNM0VVMG","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T07:55:35.110Z: 	treatementDBServices/registerUser- end
+info: 2021-12-02T07:55:35.111Z: 	Generate Token- start
+info: 2021-12-02T07:55:35.115Z: 	Generate Token- end
+info: 2021-12-02T07:55:35.117Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTg3YmY3NmIwYWU3MWFhNGVlOGNiMiIsImlhdCI6MTYzODQzMTczNSwiZXhwIjoxNjM4NDM1MzM1fQ.uNtX9GSagtaTbAb-SLgQdEx1giqg8pnIAG_PbmPvUmE"
+info: 2021-12-02T07:55:35.121Z: 	userService/registerUser- end
+info: 2021-12-02T07:55:35.122Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-02T07:55:35.123Z: 	userController/registerUser- end
+info: 2021-12-02T07:55:35.123Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-02T07:56:39.748Z: 	Server started on PORT 5000
+info: 2021-12-02T07:56:39.817Z: 	Database Connected
+info: 2021-12-02T07:56:46.392Z: 	Server started on PORT 5000
+info: 2021-12-02T07:56:46.457Z: 	Database Connected
+info: 2021-12-02T07:58:05.846Z: 	Server started on PORT 5000
+info: 2021-12-02T07:58:05.906Z: 	Database Connected
+info: 2021-12-02T07:59:30.972Z: 	Server started on PORT 5000
+info: 2021-12-02T07:59:31.043Z: 	Database Connected
+info: 2021-12-02T07:59:49.893Z: 	Server started on PORT 5000
+info: 2021-12-02T07:59:49.945Z: 	Database Connected
+info: 2021-12-02T08:00:39.750Z: 	Server started on PORT 5000
+info: 2021-12-02T08:00:39.815Z: 	Database Connected
+info: 2021-12-02T08:00:50.507Z: 	Server started on PORT 5000
+info: 2021-12-02T08:00:50.576Z: 	Database Connected
+info: 2021-12-02T08:01:43.175Z: 	Server started on PORT 5000
+info: 2021-12-02T08:01:43.257Z: 	Database Connected
+info: 2021-12-02T08:01:50.618Z: 	Server started on PORT 5000
+info: 2021-12-02T08:01:50.684Z: 	Database Connected
+info: 2021-12-02T08:01:59.806Z: 	Server started on PORT 5000
+info: 2021-12-02T08:01:59.872Z: 	Database Connected
+info: 2021-12-02T08:02:05.357Z: 	Server started on PORT 5000
+info: 2021-12-02T08:02:05.426Z: 	Database Connected
+info: 2021-12-02T08:02:49.244Z: 	Server started on PORT 5000
+info: 2021-12-02T08:02:49.321Z: 	Database Connected
+info: 2021-12-02T08:03:18.456Z: 	Server started on PORT 5000
+info: 2021-12-02T08:03:18.504Z: 	Database Connected
+info: 2021-12-02T08:04:00.812Z: 	userController/verifyUser- start
+info: 2021-12-02T08:04:00.813Z: 	HTTP req body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYxYTg3YmY3NmIwYWU3MWFhNGVlOGNiMiIsImlhdCI6MTYzODQzMTczNSwiZXhwIjoxNjM4NDM1MzM1fQ.uNtX9GSagtaTbAb-SLgQdEx1giqg8pnIAG_PbmPvUmE"
+error: 2021-12-02T08:04:00.815Z: 	userController/verifyUser- error: useServices.verifyUser is not a function
+info: 2021-12-02T08:05:02.490Z: 	Server started on PORT 5000
+info: 2021-12-02T08:05:02.545Z: 	Database Connected
+info: 2021-12-02T08:05:09.389Z: 	Server started on PORT 5000
+info: 2021-12-02T08:05:09.447Z: 	Database Connected
+info: 2021-12-02T08:05:31.693Z: 	Server started on PORT 5000
+info: 2021-12-02T08:05:31.768Z: 	Database Connected
+info: 2021-12-02T08:06:32.536Z: 	Server started on PORT 5000
+info: 2021-12-02T08:06:32.601Z: 	Database Connected
+info: 2021-12-02T08:06:49.250Z: 	userController/registerUser- start
+info: 2021-12-02T08:06:49.253Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-02T08:06:49.263Z: 	treatmentService/registerUser- start
+info: 2021-12-02T08:06:49.264Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T08:06:49.299Z: 	Db result - null
+info: 2021-12-02T08:06:49.301Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T08:06:49.461Z: 	treatementDBServices/registerUser- start
+info: 2021-12-02T08:06:49.508Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a87e99d6d76a1ef8827e4b","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$f.DoynkPHE5gKCTW9Wv9Mu3zaxJEVY.Y0t9Vp8d84TvSV78Rof2I2","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T08:06:49.509Z: 	treatementDBServices/registerUser- end
+info: 2021-12-02T08:06:49.510Z: 	Generate Token- start
+info: 2021-12-02T08:06:49.523Z: 	Generate Token- end
+info: 2021-12-02T08:06:49.524Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJGYuRG95bmtQSEU1Z0tDVFc5V3Y5TXUzemF4SkVWWS5ZMHQ5VnA4ZDg0VHZTVjc4Um9mMkkyIiwiaWF0IjoxNjM4NDMyNDA5LCJleHAiOjE2Mzg0MzYwMDl9.GryMJMMOWjmPLXT6Os4g_qhjUsflIgY0o3lvMlkkMSI"
+info: 2021-12-02T08:06:49.544Z: 	userService/registerUser- end
+info: 2021-12-02T08:06:49.545Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-02T08:06:49.546Z: 	userController/registerUser- end
+info: 2021-12-02T08:06:49.547Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-02T08:07:20.607Z: 	userController/verifyUser- start
+info: 2021-12-02T08:07:20.608Z: 	HTTP req body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJGYuRG95bmtQSEU1Z0tDVFc5V3Y5TXUzemF4SkVWWS5ZMHQ5VnA4ZDg0VHZTVjc4Um9mMkkyIiwiaWF0IjoxNjM4NDMyNDA5LCJleHAiOjE2Mzg0MzYwMDl9.GryMJMMOWjmPLXT6Os4g_qhjUsflIgY0o3lvMlkkMSI"
+error: 2021-12-02T08:07:20.610Z: 	userController/verifyUser- error: useServices.verifyUser is not a function
+info: 2021-12-02T08:07:54.540Z: 	Server started on PORT 5000
+info: 2021-12-02T08:07:54.591Z: 	Database Connected
+info: 2021-12-02T08:07:54.735Z: 	userController/verifyUser- start
+info: 2021-12-02T08:07:54.737Z: 	HTTP req body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJGYuRG95bmtQSEU1Z0tDVFc5V3Y5TXUzemF4SkVWWS5ZMHQ5VnA4ZDg0VHZTVjc4Um9mMkkyIiwiaWF0IjoxNjM4NDMyNDA5LCJleHAiOjE2Mzg0MzYwMDl9.GryMJMMOWjmPLXT6Os4g_qhjUsflIgY0o3lvMlkkMSI"
+error: 2021-12-02T08:07:54.738Z: 	userController/verifyUser- error: useServices.verifyUser is not a function
+info: 2021-12-02T08:13:08.560Z: 	Server started on PORT 5000
+info: 2021-12-02T08:13:08.630Z: 	Database Connected
+info: 2021-12-02T08:13:08.662Z: 	userController/verifyUser- start
+info: 2021-12-02T08:13:08.663Z: 	HTTP req body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJGYuRG95bmtQSEU1Z0tDVFc5V3Y5TXUzemF4SkVWWS5ZMHQ5VnA4ZDg0VHZTVjc4Um9mMkkyIiwiaWF0IjoxNjM4NDMyNDA5LCJleHAiOjE2Mzg0MzYwMDl9.GryMJMMOWjmPLXT6Os4g_qhjUsflIgY0o3lvMlkkMSI"
+error: 2021-12-02T08:13:08.665Z: 	userController/verifyUser- error: useServices.verifyUser is not a function
+info: 2021-12-02T08:13:18.912Z: 	Server started on PORT 5000
+info: 2021-12-02T08:13:18.966Z: 	Database Connected
+info: 2021-12-02T08:13:19.037Z: 	userController/verifyUser- start
+info: 2021-12-02T08:13:19.042Z: 	HTTP req body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJGYuRG95bmtQSEU1Z0tDVFc5V3Y5TXUzemF4SkVWWS5ZMHQ5VnA4ZDg0VHZTVjc4Um9mMkkyIiwiaWF0IjoxNjM4NDMyNDA5LCJleHAiOjE2Mzg0MzYwMDl9.GryMJMMOWjmPLXT6Os4g_qhjUsflIgY0o3lvMlkkMSI"
+error: 2021-12-02T08:13:19.045Z: 	userController/verifyUser- error: useServices.verifyUser is not a function
+info: 2021-12-02T08:13:25.572Z: 	Server started on PORT 5000
+info: 2021-12-02T08:13:25.632Z: 	Database Connected
+info: 2021-12-02T08:13:28.356Z: 	userController/verifyUser- start
+info: 2021-12-02T08:13:28.357Z: 	HTTP req body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJGYuRG95bmtQSEU1Z0tDVFc5V3Y5TXUzemF4SkVWWS5ZMHQ5VnA4ZDg0VHZTVjc4Um9mMkkyIiwiaWF0IjoxNjM4NDMyNDA5LCJleHAiOjE2Mzg0MzYwMDl9.GryMJMMOWjmPLXT6Os4g_qhjUsflIgY0o3lvMlkkMSI"
+error: 2021-12-02T08:13:28.359Z: 	userController/verifyUser- error: useServices.verifyUser is not a function
+info: 2021-12-02T08:14:02.241Z: 	Server started on PORT 5000
+info: 2021-12-02T08:14:02.325Z: 	Database Connected
+info: 2021-12-02T08:14:02.359Z: 	userController/verifyUser- start
+info: 2021-12-02T08:14:02.360Z: 	HTTP req body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJGYuRG95bmtQSEU1Z0tDVFc5V3Y5TXUzemF4SkVWWS5ZMHQ5VnA4ZDg0VHZTVjc4Um9mMkkyIiwiaWF0IjoxNjM4NDMyNDA5LCJleHAiOjE2Mzg0MzYwMDl9.GryMJMMOWjmPLXT6Os4g_qhjUsflIgY0o3lvMlkkMSI"
+info: 2021-12-02T08:14:02.362Z: 	treatmentService/loginUser- start
+error: 2021-12-02T08:14:02.375Z: 	treatmentService/loginUser - "value" must be of type object
+error: 2021-12-02T08:14:02.376Z: 	userController/verifyUser- error: 400
+error: 2021-12-02T08:14:02.378Z: 	400 - Bad Request - Bad request
+info: 2021-12-02T08:14:24.222Z: 	Server started on PORT 5000
+info: 2021-12-02T08:14:24.276Z: 	Database Connected
+info: 2021-12-02T08:14:35.066Z: 	Server started on PORT 5000
+info: 2021-12-02T08:14:35.135Z: 	Database Connected
+info: 2021-12-02T08:14:46.290Z: 	Server started on PORT 5000
+info: 2021-12-02T08:14:46.356Z: 	Database Connected
+info: 2021-12-02T08:15:58.010Z: 	Server started on PORT 5000
+info: 2021-12-02T08:15:58.068Z: 	Database Connected
+info: 2021-12-02T08:42:46.196Z: 	Server started on PORT 5000
+info: 2021-12-02T08:42:46.243Z: 	Database Connected
+info: 2021-12-02T08:43:37.198Z: 	Server started on PORT 5000
+info: 2021-12-02T08:43:37.254Z: 	Database Connected
+info: 2021-12-02T08:43:45.020Z: 	Server started on PORT 5000
+info: 2021-12-02T08:43:45.067Z: 	Database Connected
+info: 2021-12-02T08:44:55.122Z: 	Server started on PORT 5000
+info: 2021-12-02T08:44:55.171Z: 	Database Connected
+info: 2021-12-02T08:45:12.668Z: 	Server started on PORT 5000
+info: 2021-12-02T08:45:12.727Z: 	Database Connected
+info: 2021-12-02T08:51:23.471Z: 	Server started on PORT 5000
+info: 2021-12-02T08:51:23.536Z: 	Database Connected
+info: 2021-12-02T08:51:34.389Z: 	Server started on PORT 5000
+info: 2021-12-02T08:51:34.450Z: 	Database Connected
+info: 2021-12-02T08:51:40.565Z: 	Server started on PORT 5000
+info: 2021-12-02T08:51:40.619Z: 	Database Connected
+info: 2021-12-02T08:51:49.083Z: 	Server started on PORT 5000
+info: 2021-12-02T08:51:49.134Z: 	Database Connected
+info: 2021-12-02T08:52:55.791Z: 	Server started on PORT 5000
+info: 2021-12-02T08:52:55.841Z: 	Database Connected
+info: 2021-12-02T08:57:28.984Z: 	Server started on PORT 5000
+info: 2021-12-02T08:57:29.042Z: 	Database Connected
+info: 2021-12-02T08:59:36.656Z: 	Server started on PORT 5000
+info: 2021-12-02T08:59:36.725Z: 	Database Connected
+info: 2021-12-02T08:59:51.317Z: 	Server started on PORT 5000
+info: 2021-12-02T08:59:51.379Z: 	Database Connected
+info: 2021-12-02T08:59:56.867Z: 	Server started on PORT 5000
+info: 2021-12-02T08:59:56.907Z: 	Database Connected
+info: 2021-12-02T09:00:14.708Z: 	Server started on PORT 5000
+info: 2021-12-02T09:00:14.764Z: 	Database Connected
+info: 2021-12-02T09:00:53.626Z: 	Server started on PORT 5000
+info: 2021-12-02T09:00:53.683Z: 	Database Connected
+info: 2021-12-02T09:01:03.137Z: 	Server started on PORT 5000
+info: 2021-12-02T09:01:03.190Z: 	Database Connected
+info: 2021-12-02T09:01:08.932Z: 	Server started on PORT 5000
+info: 2021-12-02T09:01:08.984Z: 	Database Connected
+info: 2021-12-02T09:02:39.361Z: 	Server started on PORT 5000
+info: 2021-12-02T09:02:39.411Z: 	Database Connected
+info: 2021-12-02T09:02:46.462Z: 	Server started on PORT 5000
+info: 2021-12-02T09:02:46.515Z: 	Database Connected
+info: 2021-12-02T09:03:16.138Z: 	Server started on PORT 5000
+info: 2021-12-02T09:03:16.203Z: 	Database Connected
+info: 2021-12-02T09:03:30.219Z: 	Server started on PORT 5000
+info: 2021-12-02T09:03:30.269Z: 	Database Connected
+info: 2021-12-02T09:03:34.941Z: 	Server started on PORT 5000
+info: 2021-12-02T09:03:35.001Z: 	Database Connected
+info: 2021-12-02T09:03:52.800Z: 	Server started on PORT 5000
+info: 2021-12-02T09:03:52.845Z: 	Database Connected
+info: 2021-12-02T09:05:32.831Z: 	Server started on PORT 5000
+info: 2021-12-02T09:05:32.889Z: 	Database Connected
+info: 2021-12-02T09:06:07.929Z: 	Server started on PORT 5000
+info: 2021-12-02T09:06:07.995Z: 	Database Connected
+info: 2021-12-02T09:07:45.400Z: 	Server started on PORT 5000
+info: 2021-12-02T09:07:45.460Z: 	Database Connected
+info: 2021-12-02T09:07:52.600Z: 	Server started on PORT 5000
+info: 2021-12-02T09:07:52.659Z: 	Database Connected
+info: 2021-12-02T09:08:00.584Z: 	Server started on PORT 5000
+info: 2021-12-02T09:08:00.654Z: 	Database Connected
+info: 2021-12-02T09:08:38.314Z: 	Server started on PORT 5000
+info: 2021-12-02T09:08:38.381Z: 	Database Connected
+info: 2021-12-02T09:08:47.224Z: 	Server started on PORT 5000
+info: 2021-12-02T09:08:47.267Z: 	Database Connected
+info: 2021-12-02T09:08:51.459Z: 	Server started on PORT 5000
+info: 2021-12-02T09:08:51.515Z: 	Database Connected
+info: 2021-12-02T09:08:54.925Z: 	Server started on PORT 5000
+info: 2021-12-02T09:08:54.975Z: 	Database Connected
+info: 2021-12-02T09:08:58.470Z: 	Server started on PORT 5000
+info: 2021-12-02T09:08:58.524Z: 	Database Connected
+info: 2021-12-02T09:09:01.850Z: 	Server started on PORT 5000
+info: 2021-12-02T09:09:01.902Z: 	Database Connected
+info: 2021-12-02T09:09:06.126Z: 	Server started on PORT 5000
+info: 2021-12-02T09:09:06.175Z: 	Database Connected
+info: 2021-12-02T09:09:44.155Z: 	userController/registerUser- start
+info: 2021-12-02T09:09:44.156Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-02T09:09:44.172Z: 	treatmentService/registerUser- start
+info: 2021-12-02T09:09:44.173Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T09:09:44.198Z: 	Db result - null
+info: 2021-12-02T09:09:44.199Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T09:09:44.366Z: 	treatementDBServices/registerUser- start
+info: 2021-12-02T09:09:44.406Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a88d584b5b842690123c16","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T09:09:44.408Z: 	treatementDBServices/registerUser- end
+info: 2021-12-02T09:09:44.409Z: 	Generate Token- start
+info: 2021-12-02T09:09:44.421Z: 	Generate Token- end
+info: 2021-12-02T09:09:44.422Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJG4zVVdzVFduM2hhbTNXSjRJWnBhYXVGdXlKLkdzUm5LcURVZVE1U2dVUzVDaVpDN253SWcyIiwiaWF0IjoxNjM4NDM2MTg0LCJleHAiOjE2Mzg0Mzk3ODR9.kcfW3yrKsSHt_qjn1z1utib2lzEoVJovDmNLQ92hYRU"
+info: 2021-12-02T09:09:44.443Z: 	userService/registerUser- end
+info: 2021-12-02T09:09:44.444Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-02T09:09:44.447Z: 	userController/registerUser- end
+info: 2021-12-02T09:09:44.449Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-02T09:10:14.446Z: 	Server started on PORT 5000
+info: 2021-12-02T09:10:14.504Z: 	Database Connected
+info: 2021-12-02T09:10:51.597Z: 	Verifying Token- start
+info: 2021-12-02T09:11:13.718Z: 	Server started on PORT 5000
+info: 2021-12-02T09:11:13.775Z: 	Database Connected
+info: 2021-12-02T09:11:17.893Z: 	Verifying Token- start
+info: 2021-12-02T09:11:17.903Z: 	Verifying Token- end
+info: 2021-12-02T09:11:17.915Z: 	userController/verifyUser- start
+info: 2021-12-02T09:11:17.917Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","iat":1638436184,"exp":1638439784}
+info: 2021-12-02T09:11:17.919Z: 	treatmentService/loginUser- start
+error: 2021-12-02T09:11:17.921Z: 	treatmentService/loginUser - result is not defined
+error: 2021-12-02T09:11:17.924Z: 	userController/verifyUser- error: result is not defined
+info: 2021-12-02T09:12:18.757Z: 	Server started on PORT 5000
+info: 2021-12-02T09:12:18.817Z: 	Database Connected
+info: 2021-12-02T09:12:19.483Z: 	Verifying Token- start
+info: 2021-12-02T09:12:19.488Z: 	Verifying Token- end
+error: 2021-12-02T09:12:19.489Z: 	userController/verifyUser- error: lo is not defined
+info: 2021-12-02T09:12:22.275Z: 	Server started on PORT 5000
+info: 2021-12-02T09:12:22.332Z: 	Database Connected
+info: 2021-12-02T09:12:22.446Z: 	Verifying Token- start
+info: 2021-12-02T09:12:22.456Z: 	Verifying Token- end
+error: 2021-12-02T09:12:22.460Z: 	userController/verifyUser- error: log is not defined
+info: 2021-12-02T09:12:27.302Z: 	Server started on PORT 5000
+info: 2021-12-02T09:12:27.378Z: 	Database Connected
+info: 2021-12-02T09:12:27.462Z: 	Verifying Token- start
+info: 2021-12-02T09:12:27.468Z: 	Verifying Token- end
+info: 2021-12-02T09:12:27.478Z: 	userController/verifyUser- start
+info: 2021-12-02T09:12:27.479Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","iat":1638436184,"exp":1638439784}
+info: 2021-12-02T09:12:27.481Z: 	treatmentService/loginUser- start
+error: 2021-12-02T09:12:27.482Z: 	treatmentService/loginUser - result is not defined
+error: 2021-12-02T09:12:27.484Z: 	userController/verifyUser- error: result is not defined
+info: 2021-12-02T09:12:33.191Z: 	Server started on PORT 5000
+info: 2021-12-02T09:12:33.261Z: 	Database Connected
+info: 2021-12-02T09:12:35.796Z: 	Verifying Token- start
+info: 2021-12-02T09:12:35.804Z: 	Verifying Token- end
+info: 2021-12-02T09:12:35.816Z: 	userController/verifyUser- start
+info: 2021-12-02T09:12:35.817Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","iat":1638436184,"exp":1638439784}
+info: 2021-12-02T09:12:35.819Z: 	treatmentService/loginUser- start
+error: 2021-12-02T09:12:35.821Z: 	treatmentService/loginUser - result is not defined
+error: 2021-12-02T09:12:35.825Z: 	userController/verifyUser- error: result is not defined
+info: 2021-12-02T09:12:38.026Z: 	Verifying Token- start
+info: 2021-12-02T09:12:38.029Z: 	Verifying Token- end
+info: 2021-12-02T09:12:38.035Z: 	userController/verifyUser- start
+info: 2021-12-02T09:12:38.037Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","iat":1638436184,"exp":1638439784}
+info: 2021-12-02T09:12:38.039Z: 	treatmentService/loginUser- start
+error: 2021-12-02T09:12:38.041Z: 	treatmentService/loginUser - result is not defined
+error: 2021-12-02T09:12:38.043Z: 	userController/verifyUser- error: result is not defined
+info: 2021-12-02T09:13:40.265Z: 	Server started on PORT 5000
+info: 2021-12-02T09:13:40.321Z: 	Database Connected
+info: 2021-12-02T09:13:40.468Z: 	Verifying Token- start
+info: 2021-12-02T09:13:40.474Z: 	Verifying Token- end
+info: 2021-12-02T09:13:40.487Z: 	userController/verifyUser- start
+info: 2021-12-02T09:13:40.489Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","iat":1638436184,"exp":1638439784}
+info: 2021-12-02T09:13:40.491Z: 	treatmentService/loginUser- start
+info: 2021-12-02T09:13:40.493Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T09:13:40.548Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a88d584b5b842690123c16","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T09:13:40.551Z: 	treatementDBServices/checkUser- end
+error: 2021-12-02T09:13:40.689Z: 	treatmentService/loginUser - 401
+error: 2021-12-02T09:13:40.689Z: 	userController/verifyUser- error: 401
+error: 2021-12-02T09:13:40.690Z: 	401 - Unauthorized - Authentication Failed 
+info: 2021-12-02T09:14:01.875Z: 	Verifying Token- start
+info: 2021-12-02T09:14:01.877Z: 	Verifying Token- end
+info: 2021-12-02T09:14:01.881Z: 	userController/verifyUser- start
+info: 2021-12-02T09:14:01.882Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","iat":1638436184,"exp":1638439784}
+info: 2021-12-02T09:14:01.885Z: 	treatmentService/loginUser- start
+info: 2021-12-02T09:14:01.886Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T09:14:01.895Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a88d584b5b842690123c16","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T09:14:01.897Z: 	treatementDBServices/checkUser- end
+error: 2021-12-02T09:14:02.061Z: 	treatmentService/loginUser - 401
+error: 2021-12-02T09:14:02.063Z: 	userController/verifyUser- error: 401
+error: 2021-12-02T09:14:02.064Z: 	401 - Unauthorized - Authentication Failed 
+info: 2021-12-02T09:14:03.942Z: 	Verifying Token- start
+info: 2021-12-02T09:14:03.944Z: 	Verifying Token- end
+info: 2021-12-02T09:14:03.949Z: 	userController/verifyUser- start
+info: 2021-12-02T09:14:03.950Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","iat":1638436184,"exp":1638439784}
+info: 2021-12-02T09:14:03.952Z: 	treatmentService/loginUser- start
+info: 2021-12-02T09:14:03.953Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T09:14:03.964Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a88d584b5b842690123c16","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T09:14:03.965Z: 	treatementDBServices/checkUser- end
+error: 2021-12-02T09:14:04.125Z: 	treatmentService/loginUser - 401
+error: 2021-12-02T09:14:04.126Z: 	userController/verifyUser- error: 401
+error: 2021-12-02T09:14:04.127Z: 	401 - Unauthorized - Authentication Failed 
+info: 2021-12-02T09:14:34.011Z: 	Verifying Token- start
+info: 2021-12-02T09:14:34.013Z: 	Verifying Token- end
+info: 2021-12-02T09:14:34.017Z: 	userController/verifyUser- start
+info: 2021-12-02T09:14:34.018Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","iat":1638436184,"exp":1638439784}
+info: 2021-12-02T09:14:34.019Z: 	treatmentService/loginUser- start
+info: 2021-12-02T09:14:34.020Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T09:14:34.026Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a88d584b5b842690123c16","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$n3UWsTWn3ham3WJ4IZpaauFuyJ.GsRnKqDUeQ5SgUS5CiZC7nwIg2","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T09:14:34.028Z: 	treatementDBServices/checkUser- end
+error: 2021-12-02T09:14:34.190Z: 	treatmentService/loginUser - 401
+error: 2021-12-02T09:14:34.191Z: 	userController/verifyUser- error: 401
+error: 2021-12-02T09:14:34.192Z: 	401 - Unauthorized - Authentication Failed 
+info: 2021-12-02T11:38:19.785Z: 	Server started on PORT 5000
+info: 2021-12-02T11:38:19.846Z: 	Database Connected
+info: 2021-12-02T11:38:27.050Z: 	Server started on PORT 5000
+info: 2021-12-02T11:38:27.117Z: 	Database Connected
+info: 2021-12-02T11:38:32.923Z: 	Server started on PORT 5000
+info: 2021-12-02T11:38:32.980Z: 	Database Connected
+info: 2021-12-02T11:38:39.074Z: 	Server started on PORT 5000
+info: 2021-12-02T11:38:39.137Z: 	Database Connected
+info: 2021-12-02T11:38:47.750Z: 	Server started on PORT 5000
+info: 2021-12-02T11:38:47.814Z: 	Database Connected
+info: 2021-12-02T11:38:58.262Z: 	userController/registerUser- start
+info: 2021-12-02T11:38:58.263Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-02T11:38:58.272Z: 	treatmentService/registerUser- start
+info: 2021-12-02T11:38:58.274Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T11:38:58.317Z: 	Db result - null
+info: 2021-12-02T11:38:58.319Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T11:38:58.494Z: 	treatementDBServices/registerUser- start
+info: 2021-12-02T11:38:58.548Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a8b0527133c44878ab8224","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$GZyU3r1Kf9UdF23FQju3SOUHd1e9F7qeGFdhTK5kN6.hh2I/PgrRy","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T11:38:58.549Z: 	treatementDBServices/registerUser- end
+info: 2021-12-02T11:38:58.551Z: 	Generate Token- start
+info: 2021-12-02T11:38:58.563Z: 	Generate Token- end
+info: 2021-12-02T11:38:58.566Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJEdaeVUzcjFLZjlVZEYyM0ZRanUzU09VSGQxZTlGN3FlR0ZkaFRLNWtONi5oaDJJL1BnclJ5IiwiaWF0IjoxNjM4NDQ1MTM4LCJleHAiOjE2Mzg0NDg3Mzh9.3zutOGBGFsQrU_uY1Fv30z7qBq1S1Z7qgZ1-e78JRgM"
+info: 2021-12-02T11:38:58.604Z: 	userService/registerUser- end
+info: 2021-12-02T11:38:58.605Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-02T11:38:58.606Z: 	userController/registerUser- end
+info: 2021-12-02T11:38:58.610Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-02T11:39:21.695Z: 	Verifying Token- start
+info: 2021-12-02T11:39:21.699Z: 	Verifying Token- end
+info: 2021-12-02T11:39:21.706Z: 	userController/verifyUser- start
+info: 2021-12-02T11:39:21.707Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$GZyU3r1Kf9UdF23FQju3SOUHd1e9F7qeGFdhTK5kN6.hh2I/PgrRy","iat":1638445138,"exp":1638448738}
+info: 2021-12-02T11:39:21.709Z: 	treatmentService/loginUser- start
+info: 2021-12-02T11:39:21.710Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T11:39:21.725Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a8b0527133c44878ab8224","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$GZyU3r1Kf9UdF23FQju3SOUHd1e9F7qeGFdhTK5kN6.hh2I/PgrRy","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T11:39:21.726Z: 	treatementDBServices/checkUser- end
+error: 2021-12-02T11:39:21.909Z: 	treatmentService/loginUser - 401
+error: 2021-12-02T11:39:21.910Z: 	userController/verifyUser- error: 401
+error: 2021-12-02T11:39:21.912Z: 	401 - Unauthorized - Authentication Failed 
+info: 2021-12-02T11:51:49.177Z: 	Server started on PORT 5000
+info: 2021-12-02T11:51:49.226Z: 	Database Connected
+info: 2021-12-02T11:51:55.983Z: 	Verifying Token- start
+info: 2021-12-02T11:51:55.993Z: 	Verifying Token- end
+info: 2021-12-02T11:51:56.013Z: 	userController/verifyUser- start
+info: 2021-12-02T11:51:56.016Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$GZyU3r1Kf9UdF23FQju3SOUHd1e9F7qeGFdhTK5kN6.hh2I/PgrRy","iat":1638445138,"exp":1638448738}
+info: 2021-12-02T11:51:56.019Z: 	treatmentService/loginUser- start
+info: 2021-12-02T11:51:56.021Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T11:51:56.058Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a8b0527133c44878ab8224","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$GZyU3r1Kf9UdF23FQju3SOUHd1e9F7qeGFdhTK5kN6.hh2I/PgrRy","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T11:51:56.059Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T11:51:56.067Z: 	service result - ""
+info: 2021-12-02T11:51:56.068Z: 	userService/loginUser- end
+info: 2021-12-02T11:51:56.069Z: 	HTTP res body - {"mssg":"Verified"}
+info: 2021-12-02T11:51:56.070Z: 	userController/verifyUser- end
+info: 2021-12-02T11:51:56.071Z: 	200 - OK - Operation Successful - /api/users/verifyUser/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJEdaeVUzcjFLZjlVZEYyM0ZRanUzU09VSGQxZTlGN3FlR0ZkaFRLNWtONi5oaDJJL1BnclJ5IiwiaWF0IjoxNjM4NDQ1MTM4LCJleHAiOjE2Mzg0NDg3Mzh9.3zutOGBGFsQrU_uY1Fv30z7qBq1S1Z7qgZ1-e78JRgM - GET
+info: 2021-12-02T11:58:37.382Z: 	Server started on PORT 5000
+info: 2021-12-02T11:58:37.441Z: 	Database Connected
+info: 2021-12-02T14:13:55.743Z: 	Server started on PORT 5000
+info: 2021-12-02T14:13:55.797Z: 	Database Connected
+info: 2021-12-02T15:22:41.985Z: 	Server started on PORT 5000
+info: 2021-12-02T15:22:42.029Z: 	Database Connected
+info: 2021-12-02T15:23:04.301Z: 	Server started on PORT 5000
+info: 2021-12-02T15:23:04.358Z: 	Database Connected
+info: 2021-12-02T15:23:16.874Z: 	Server started on PORT 5000
+info: 2021-12-02T15:23:16.930Z: 	Database Connected
+info: 2021-12-02T15:23:27.810Z: 	Server started on PORT 5000
+info: 2021-12-02T15:23:27.857Z: 	Database Connected
+info: 2021-12-02T15:23:38.974Z: 	Server started on PORT 5000
+info: 2021-12-02T15:23:39.015Z: 	Database Connected
+info: 2021-12-02T15:23:44.289Z: 	Server started on PORT 5000
+info: 2021-12-02T15:23:44.335Z: 	Database Connected
+info: 2021-12-02T15:24:06.078Z: 	Server started on PORT 5000
+info: 2021-12-02T15:24:06.121Z: 	Database Connected
+info: 2021-12-02T15:24:09.770Z: 	Server started on PORT 5000
+info: 2021-12-02T15:24:09.829Z: 	Database Connected
+info: 2021-12-02T15:24:29.316Z: 	Server started on PORT 5000
+info: 2021-12-02T15:24:29.392Z: 	Database Connected
+info: 2021-12-02T15:24:34.346Z: 	Server started on PORT 5000
+info: 2021-12-02T15:24:34.382Z: 	Database Connected
+info: 2021-12-02T15:24:38.416Z: 	Server started on PORT 5000
+info: 2021-12-02T15:24:38.460Z: 	Database Connected
+info: 2021-12-02T15:24:42.143Z: 	Server started on PORT 5000
+info: 2021-12-02T15:24:42.199Z: 	Database Connected
+info: 2021-12-02T15:25:13.301Z: 	Server started on PORT 5000
+info: 2021-12-02T15:25:13.349Z: 	Database Connected
+info: 2021-12-02T15:26:49.667Z: 	Server started on PORT 5000
+info: 2021-12-02T15:26:49.728Z: 	Database Connected
+info: 2021-12-02T15:26:57.204Z: 	Server started on PORT 5000
+info: 2021-12-02T15:26:57.244Z: 	Database Connected
+info: 2021-12-02T15:30:39.961Z: 	Server started on PORT 5000
+info: 2021-12-02T15:30:39.998Z: 	Database Connected
+info: 2021-12-02T15:30:42.515Z: 	Server started on PORT 5000
+info: 2021-12-02T15:30:42.550Z: 	Database Connected
+info: 2021-12-02T15:30:44.315Z: 	Server started on PORT 5000
+info: 2021-12-02T15:30:44.355Z: 	Database Connected
+info: 2021-12-02T15:30:53.734Z: 	Server started on PORT 5000
+info: 2021-12-02T15:30:53.772Z: 	Database Connected
+info: 2021-12-02T15:30:55.715Z: 	Server started on PORT 5000
+info: 2021-12-02T15:30:55.755Z: 	Database Connected
+info: 2021-12-02T15:31:02.557Z: 	Server started on PORT 5000
+info: 2021-12-02T15:31:02.591Z: 	Database Connected
+info: 2021-12-02T15:31:24.265Z: 	Server started on PORT 5000
+info: 2021-12-02T15:31:24.305Z: 	Database Connected
+info: 2021-12-02T15:34:56.084Z: 	userController/registerUser- start
+info: 2021-12-02T15:34:56.084Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-02T15:34:56.092Z: 	treatmentService/registerUser- start
+info: 2021-12-02T15:34:56.093Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T15:34:56.108Z: 	Db result - null
+info: 2021-12-02T15:34:56.109Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T15:34:56.182Z: 	treatementDBServices/registerUser- start
+info: 2021-12-02T15:34:56.198Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a8e7a048dc0805882bb6b4","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$aGQMhsObmiSSjYu4ggwHBuv5H33Wks/ShCmDWhtXQeBLhp7Uf4OVe","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T15:34:56.199Z: 	treatementDBServices/registerUser- end
+info: 2021-12-02T15:34:56.199Z: 	Generate Token- start
+info: 2021-12-02T15:34:56.205Z: 	Generate Token- end
+info: 2021-12-02T15:34:56.207Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJGFHUU1oc09ibWlTU2pZdTRnZ3dIQnV2NUgzM1drcy9TaENtRFdodFhRZUJMaHA3VWY0T1ZlIiwiaWF0IjoxNjM4NDU5Mjk2LCJleHAiOjE2Mzg0NjI4OTZ9.hU4ce4lB2VjIjCF-h84FivYYSgLzls43unbzgFKk610"
+info: 2021-12-02T15:34:56.215Z: 	userService/registerUser- end
+info: 2021-12-02T15:34:56.215Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-02T15:34:56.216Z: 	userController/registerUser- end
+info: 2021-12-02T15:34:56.216Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-02T16:48:21.941Z: 	Database Disconnected
+info: 2021-12-02T16:48:31.959Z: 	Database Connected
+info: 2021-12-02T18:09:16.223Z: 	Database Disconnected
+info: 2021-12-02T18:09:26.233Z: 	Database Connected
+info: 2021-12-02T18:48:00.850Z: 	Database Disconnected
+info: 2021-12-02T18:48:10.868Z: 	Database Connected
+info: 2021-12-02T18:52:22.800Z: 	userController/loginUser- start
+info: 2021-12-02T18:52:22.801Z: 	HTTP req body - {}
+info: 2021-12-02T18:52:22.804Z: 	treatmentService/loginUser- start
+error: 2021-12-02T18:52:22.814Z: 	treatmentService/loginUser - "email" is required
+error: 2021-12-02T18:52:22.815Z: 	userController/loginUser- error: 400
+error: 2021-12-02T18:52:22.817Z: 	400 - Bad Request - Bad request
+info: 2021-12-02T18:52:57.063Z: 	userController/loginUser- start
+info: 2021-12-02T18:52:57.065Z: 	HTTP req body - {"email":"shubhamprakash2000513@gmail.com","password":"Logan@133"}
+info: 2021-12-02T18:52:57.065Z: 	treatmentService/loginUser- start
+info: 2021-12-02T18:52:57.079Z: 	treatementDBServices/checkUser- start
+error: 2021-12-02T18:52:57.084Z: 	treatementServices/checkUser- error: Cast to Object failed for value "shubhamprakash2000513@gmail.com" (type string) at path "$and.0" for model "User"
+error: 2021-12-02T18:52:57.085Z: 	treatmentService/loginUser - Cast to Object failed for value "shubhamprakash2000513@gmail.com" (type string) at path "$and.0" for model "User"
+error: 2021-12-02T18:52:57.087Z: 	userController/loginUser- error: Cast to Object failed for value "shubhamprakash2000513@gmail.com" (type string) at path "$and.0" for model "User"
+info: 2021-12-02T18:53:44.452Z: 	Server started on PORT 5000
+info: 2021-12-02T18:53:44.506Z: 	Database Connected
+info: 2021-12-02T18:53:49.835Z: 	Server started on PORT 5000
+info: 2021-12-02T18:53:49.903Z: 	Database Connected
+info: 2021-12-02T18:53:55.148Z: 	Server started on PORT 5000
+info: 2021-12-02T18:53:55.209Z: 	Database Connected
+info: 2021-12-02T18:54:00.687Z: 	Server started on PORT 5000
+info: 2021-12-02T18:54:00.769Z: 	Database Connected
+info: 2021-12-02T18:54:01.212Z: 	userController/loginUser- start
+info: 2021-12-02T18:54:01.213Z: 	HTTP req body - {"email":"shubhamprakash2000513@gmail.com","password":"Logan@133"}
+info: 2021-12-02T18:54:01.215Z: 	treatmentService/loginUser- start
+info: 2021-12-02T18:54:01.227Z: 	treatementDBServices/checkUser- start
+error: 2021-12-02T18:54:01.249Z: 	treatementServices/checkUser- error: Cast to Object failed for value "shubhamprakash2000513@gmail.com" (type string) at path "$and.0" for model "User"
+error: 2021-12-02T18:54:01.252Z: 	treatmentService/loginUser - Cast to Object failed for value "shubhamprakash2000513@gmail.com" (type string) at path "$and.0" for model "User"
+error: 2021-12-02T18:54:01.262Z: 	userController/loginUser- error: Cast to Object failed for value "shubhamprakash2000513@gmail.com" (type string) at path "$and.0" for model "User"
+info: 2021-12-02T18:54:29.400Z: 	Server started on PORT 5000
+info: 2021-12-02T18:54:29.455Z: 	Database Connected
+info: 2021-12-02T18:54:33.831Z: 	userController/loginUser- start
+info: 2021-12-02T18:54:33.832Z: 	HTTP req body - {"email":"shubhamprakash2000513@gmail.com","password":"Logan@133"}
+info: 2021-12-02T18:54:33.833Z: 	treatmentService/loginUser- start
+error: 2021-12-02T18:54:33.834Z: 	treatmentService/loginUser - result is not defined
+error: 2021-12-02T18:54:33.836Z: 	userController/loginUser- error: result is not defined
+info: 2021-12-02T18:54:46.755Z: 	Server started on PORT 5000
+info: 2021-12-02T18:54:46.812Z: 	Database Connected
+info: 2021-12-02T18:54:55.086Z: 	Server started on PORT 5000
+info: 2021-12-02T18:54:55.150Z: 	Database Connected
+info: 2021-12-02T18:54:56.138Z: 	userController/loginUser- start
+info: 2021-12-02T18:54:56.140Z: 	HTTP req body - {"email":"shubhamprakash2000513@gmail.com","password":"Logan@133"}
+info: 2021-12-02T18:54:56.141Z: 	treatmentService/loginUser- start
+info: 2021-12-02T18:54:56.143Z: 	treatementDBServices/checkUser- start
+error: 2021-12-02T18:54:56.160Z: 	treatementServices/checkUser- error: Cast to Object failed for value "shubhamprakash2000513@gmail.com" (type string) at path "$and.0" for model "User"
+error: 2021-12-02T18:54:56.161Z: 	treatmentService/loginUser - Cast to Object failed for value "shubhamprakash2000513@gmail.com" (type string) at path "$and.0" for model "User"
+error: 2021-12-02T18:54:56.163Z: 	userController/loginUser- error: Cast to Object failed for value "shubhamprakash2000513@gmail.com" (type string) at path "$and.0" for model "User"
+info: 2021-12-02T18:56:00.911Z: 	Server started on PORT 5000
+info: 2021-12-02T18:56:00.974Z: 	Database Connected
+info: 2021-12-02T18:56:03.453Z: 	userController/loginUser- start
+info: 2021-12-02T18:56:03.454Z: 	HTTP req body - {"email":"shubhamprakash2000513@gmail.com","password":"Logan@133"}
+info: 2021-12-02T18:56:03.456Z: 	treatmentService/loginUser- start
+info: 2021-12-02T18:56:03.457Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T18:56:03.510Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a8e7a048dc0805882bb6b4","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$aGQMhsObmiSSjYu4ggwHBuv5H33Wks/ShCmDWhtXQeBLhp7Uf4OVe","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T18:56:03.519Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T18:56:03.706Z: 	Generate Token- start
+info: 2021-12-02T18:56:03.717Z: 	Generate Token- end
+info: 2021-12-02T18:56:03.718Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJGFHUU1oc09ibWlTU2pZdTRnZ3dIQnV2NUgzM1drcy9TaENtRFdodFhRZUJMaHA3VWY0T1ZlIiwiaWF0IjoxNjM4NDcxMzYzLCJleHAiOjE2Mzg0NzQ5NjN9.P7Dt39QnpOZiIwGeHgk781cOuwWSMvI8Yd_AEK4qhlQ"
+info: 2021-12-02T18:56:03.719Z: 	userService/loginUser- end
+info: 2021-12-02T18:56:03.721Z: 	HTTP res body - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJGFHUU1oc09ibWlTU2pZdTRnZ3dIQnV2NUgzM1drcy9TaENtRFdodFhRZUJMaHA3VWY0T1ZlIiwiaWF0IjoxNjM4NDcxMzYzLCJleHAiOjE2Mzg0NzQ5NjN9.P7Dt39QnpOZiIwGeHgk781cOuwWSMvI8Yd_AEK4qhlQ"
+info: 2021-12-02T18:56:03.723Z: 	userController/loginUser- end
+info: 2021-12-02T18:56:03.726Z: 	200 - OK - Operation Successful - /api/users/loginUser - POST
+info: 2021-12-02T18:59:41.994Z: 	Server started on PORT 5000
+info: 2021-12-02T18:59:42.049Z: 	Database Connected
+info: 2021-12-02T19:00:12.071Z: 	Server started on PORT 5000
+info: 2021-12-02T19:00:12.146Z: 	Database Connected
+info: 2021-12-02T19:00:16.028Z: 	Server started on PORT 5000
+info: 2021-12-02T19:00:16.085Z: 	Database Connected
+info: 2021-12-02T19:01:18.627Z: 	Server started on PORT 5000
+info: 2021-12-02T19:01:18.700Z: 	Database Connected
+info: 2021-12-02T19:05:21.476Z: 	userController/registerUser- start
+info: 2021-12-02T19:05:21.478Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-02T19:05:21.491Z: 	treatmentService/registerUser- start
+info: 2021-12-02T19:05:21.494Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T19:05:21.550Z: 	Db result - null
+info: 2021-12-02T19:05:21.551Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T19:05:21.742Z: 	treatementDBServices/registerUser- start
+info: 2021-12-02T19:05:21.795Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a918f1d3bf0d3e30eff156","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$UYoG/tUu9VXtazjiKCQwwuE0iagMuwUSB0QIE.LnEYC0T/AjvRdoW","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T19:05:21.797Z: 	treatementDBServices/registerUser- end
+info: 2021-12-02T19:05:21.799Z: 	Generate Token- start
+info: 2021-12-02T19:05:21.810Z: 	Generate Token- end
+info: 2021-12-02T19:05:21.813Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJFVZb0cvdFV1OVZYdGF6amlLQ1F3d3VFMGlhZ011d1VTQjBRSUUuTG5FWUMwVC9BanZSZG9XIiwiaWF0IjoxNjM4NDcxOTIxLCJleHAiOjE2Mzg0NzU1MjF9.jdLGQVJHLOo8zRzjvcmmtGjTjdK7EQOJZG7qDMxMNnU"
+info: 2021-12-02T19:05:21.853Z: 	userService/registerUser- end
+info: 2021-12-02T19:05:21.854Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-02T19:05:21.855Z: 	userController/registerUser- end
+info: 2021-12-02T19:05:21.861Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-02T19:50:32.168Z: 	Server started on PORT 5000
+info: 2021-12-02T19:50:32.317Z: 	Database Connected
+info: 2021-12-02T19:50:57.090Z: 	userController/registerUser- start
+info: 2021-12-02T19:50:57.092Z: 	HTTP req body - {"name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"Logan@133","roll":"1806346","isDeleted":false,"admin":false}
+info: 2021-12-02T19:50:57.108Z: 	treatmentService/registerUser- start
+info: 2021-12-02T19:50:57.109Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T19:50:57.153Z: 	Db result - null
+info: 2021-12-02T19:50:57.155Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T19:50:57.313Z: 	treatementDBServices/registerUser- start
+info: 2021-12-02T19:50:57.375Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a923a1575bb94ec8f9deb4","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$SU.R2VFMfYutU5PhFcMPsuXlVnxZlB9rHBJmYZiWLv/mQmXCyMMSy","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T19:50:57.377Z: 	treatementDBServices/registerUser- end
+info: 2021-12-02T19:50:57.378Z: 	Generate Token- start
+info: 2021-12-02T19:50:57.393Z: 	Generate Token- end
+info: 2021-12-02T19:50:57.394Z: 	service result - "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJFNVLlIyVkZNZll1dFU1UGhGY01Qc3VYbFZueFpsQjlySEJKbVlaaVdMdi9tUW1YQ3lNTVN5IiwiaWF0IjoxNjM4NDc0NjU3LCJleHAiOjE2Mzg0NzgyNTd9.kO5SoB6QgpoEFTqbjNzotLBFmF4XjbQ2amg5k4RnjSY"
+info: 2021-12-02T19:50:57.422Z: 	userService/registerUser- end
+info: 2021-12-02T19:50:57.423Z: 	HTTP res body - {"result":"Check Mail"}
+info: 2021-12-02T19:50:57.424Z: 	userController/registerUser- end
+info: 2021-12-02T19:50:57.425Z: 	201 - Created - Operation Successful - /api/users/registerUser - POST
+info: 2021-12-02T19:51:15.921Z: 	Verifying Token- start
+info: 2021-12-02T19:51:15.926Z: 	Verifying Token- end
+info: 2021-12-02T19:51:15.933Z: 	userController/verifyUser- start
+info: 2021-12-02T19:51:15.934Z: 	HTTP req body - {"roll":"1806346","password":"$2b$10$SU.R2VFMfYutU5PhFcMPsuXlVnxZlB9rHBJmYZiWLv/mQmXCyMMSy","iat":1638474657,"exp":1638478257}
+info: 2021-12-02T19:51:15.935Z: 	treatmentService/loginUser- start
+info: 2021-12-02T19:51:15.936Z: 	treatementDBServices/checkUser- start
+info: 2021-12-02T19:51:15.949Z: 	Db result - {"isActive":false,"isDeleted":false,"_id":"61a923a1575bb94ec8f9deb4","name":"shubham","email":"shubhamprakash2000513@gmail.com","password":"$2b$10$SU.R2VFMfYutU5PhFcMPsuXlVnxZlB9rHBJmYZiWLv/mQmXCyMMSy","roll":"1806346","admin":false,"__v":0}
+info: 2021-12-02T19:51:15.951Z: 	treatementDBServices/checkUser- end
+info: 2021-12-02T19:51:15.987Z: 	service result - ""
+info: 2021-12-02T19:51:15.988Z: 	userService/loginUser- end
+info: 2021-12-02T19:51:15.989Z: 	HTTP res body - {"mssg":"Verified"}
+info: 2021-12-02T19:51:15.989Z: 	userController/verifyUser- end
+info: 2021-12-02T19:51:15.990Z: 	200 - OK - Operation Successful - /api/users/verifyUser/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xsIjoiMTgwNjM0NiIsInBhc3N3b3JkIjoiJDJiJDEwJFNVLlIyVkZNZll1dFU1UGhGY01Qc3VYbFZueFpsQjlySEJKbVlaaVdMdi9tUW1YQ3lNTVN5IiwiaWF0IjoxNjM4NDc0NjU3LCJleHAiOjE2Mzg0NzgyNTd9.kO5SoB6QgpoEFTqbjNzotLBFmF4XjbQ2amg5k4RnjSY - GET
+info: 2021-12-02T19:54:03.261Z: 	Server started on PORT 5000
+info: 2021-12-02T19:54:03.325Z: 	Database Connected
+info: 2021-12-03T03:13:46.521Z: 	Database Disconnected
+info: 2021-12-03T03:13:56.532Z: 	Database Connected
+info: 2021-12-03T05:44:40.047Z: 	Database Disconnected
+info: 2021-12-03T05:44:50.057Z: 	Database Connected
+info: 2021-12-03T06:38:13.917Z: 	Database Disconnected
+info: 2021-12-03T06:38:24.130Z: 	Database Connected
